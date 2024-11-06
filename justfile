@@ -14,11 +14,11 @@ build target:
 
 
 run target:
- @g++ {{target}}.cpp -o .build/{{target}} && ./.build/{{target}}
+ @g++ {{target}}/main.cpp -o .build/{{target}} && ./.build/{{target}}
 
 
 new target:
     @mkdir {{target}} 
     @touch {{target}}/main.cpp
     # @echo $cpp_template> {{target}}/main.cpp
-    @echo ' #{{target}}' >{{target}}/README.md
+    @echo '# {{target}}' >{{target}}/README.md
