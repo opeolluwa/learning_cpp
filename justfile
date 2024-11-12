@@ -18,6 +18,13 @@ run target:
 
 
 new target:
-    @mkdir {{target}} 
-    @touch {{target}}/main.cpp
-    @echo '# {{target}}' >{{target}}/README.md
+    #!/bin/bash 
+    template="#include <iostream>
+    // $target
+    int main()
+    {
+    return 0;
+    }"
+    mkdir {{target}} 
+    echo  "$template" > {{target}}/main.cpp
+    echo '# {{target}}' >{{target}}/README.md
