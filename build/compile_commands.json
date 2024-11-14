@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/USER/Desktop/devs/learning_cpp/build",
-  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/learning_cpp.dir/main.cpp.o -c /Users/USER/Desktop/devs/learning_cpp/main.cpp",
-  "file": "/Users/USER/Desktop/devs/learning_cpp/main.cpp",
-  "output": "CMakeFiles/learning_cpp.dir/main.cpp.o"
-}
-]

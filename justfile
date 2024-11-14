@@ -10,7 +10,7 @@ int main()
 }"
 
 build target:
- @g++ {{target}}.cpp -o .build/{{target}}
+ @g++ -Wall  {{target}}.cpp -o .build/{{target}}
 
 
 run target:

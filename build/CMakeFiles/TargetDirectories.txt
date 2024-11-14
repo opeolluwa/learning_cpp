@@ -1,7 +1,0 @@
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/learning_cpp.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/edit_cache.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/rebuild_cache.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/list_install_components.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/install.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/install/local.dir
-/Users/USER/Desktop/devs/learning_cpp/build/CMakeFiles/install/strip.dir
