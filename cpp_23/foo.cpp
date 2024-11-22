@@ -1,15 +1,6 @@
-// module;
-// #include <iostream>
+#include <iostream>
+using std::cout;
 
-// export module foo {
-// public:
-//     foo();
-//     ~foo();
-//     void  helloWorld();
-// };
-
-
-// foo::foo = default;
-// foo::~foo() = default;
-// void foo::helloWorld() { std::cout << "hello world\n"; }
-
+void say_hi(){
+    std::cout<< "heheh";
+}

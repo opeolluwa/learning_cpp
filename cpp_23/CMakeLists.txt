@@ -1,10 +1,14 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.31)
 
 project(cpp_23 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED YES)
+SET(CMAKE_SUPPRESS_REGENERATION YES) # We prefer CMake GUI to generate CMake files...
+
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_SCAN_FOR_MODULES OFF)
+set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(cpp_23 main.cpp
     foo.cpp)
