@@ -1,0 +1,7 @@
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/cpp_23.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/edit_cache.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/rebuild_cache.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/list_install_components.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/install.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/install/local.dir
+/Users/USER/Desktop/devs/learning_cpp/cpp_23/build/Desktop_arm_darwin_generic_mach_o_32bit-Release/CMakeFiles/install/strip.dir

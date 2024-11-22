@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.29)
+
+project(cpp_23 LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_SCAN_FOR_MODULES OFF)
+
+add_executable(cpp_23 main.cpp
+    foo.cpp)
+
+include(GNUInstallDirs)
+install(TARGETS cpp_23
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+)
